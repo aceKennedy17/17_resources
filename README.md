@@ -1,7 +1,15 @@
 Q Information Resources
 =======================
 
-### Daily updates and interpretations
+### Q Drops
+
+***QAlerts***\
+<https://qalerts.app/>
+
+***QAgg***\
+<https://qagg.news/>
+
+### Daily updates and analysis
 
 ***X22 Report***\
 Geo-Political and Financial Analysis\
@@ -104,7 +112,7 @@ ET and planetary interpretations\
 ***Garry Flynn***\
 <https://www.facebook.com/Fly.n.Mail>
 
-### Tools, Dashboards, 
+### Tools, Dashboards, Official Press Rooms
 
 ***Schumann Bot***\
 <https://twitter.com/schumannbot>
