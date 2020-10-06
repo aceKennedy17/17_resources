@@ -17,7 +17,7 @@ Geo-Political and Financial Analysis\
 
 ***And We Know***\
 Geneal. A bit of religious orientation - empowering one though.\
-Great interpretations and coverage though.\
+Great interpretations and coverage.\
 <https://www.youtube.com/channel/UCzFSNq-Q7QV6kBSw9zCoVXg>
 
 ***Santa Surfing***\
