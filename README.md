@@ -103,3 +103,40 @@ ET and planetary interpretations\
 
 ***Garry Flynn***\
 <https://www.facebook.com/Fly.n.Mail>
+
+### Tools, Dashboards, 
+
+***Schumann Bot***\
+<https://twitter.com/schumannbot>
+
+***Internet Outage Map***\
+<https://www.thousandeyes.com/outages>
+
+***Trump Deleted Twitts***\
+<https://factba.se/topic/deleted-tweets>
+
+***Human Tafficking Arrests***\
+<https://docs.google.com/spreadsheets/d/1MAnZZoD7y5Ydwx2rSrZualrZTNUYDY7gozTXkT0YUOs/edit#gid=268553545>
+
+***DOJ Press Room***\
+Monitor charges, indictments and news\
+<https://www.justice.gov/psc/press-room>
+
+***OCC News***\
+Treasury and financial USA updates\
+<https://www.occ.treas.gov/news-events/newsroom/index.html>
+
+***Information war MEMEs***\
+<https://drive.google.com/drive/folders/1-GkXup7MKEIpxvmdAQRGXThWNGO3fb5y>
+
+***FBI reports & updates on crimes against children***\
+<https://www.fbi.gov/investigate/violent-crime/cac/violent-crimes-against-children-news>
+
+***Twitter Video Downloads***\
+<https://twittervideodownloader.com/>
+
+***Morse Code Translator***\
+<https://morsedecoder.com/>
+
+***World Meter - global stats***\
+<https://www.worldometers.info/>
