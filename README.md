@@ -61,7 +61,7 @@ Cosmic war and transformation from an ET\
 New financial system and trade\
 <https://twitter.com/DerPreusse1963>
 
-### QAnons on Twitter\
+### QAnons on Twitter
 
 ***Vincent Kennedy***\
 The most followed QAnon that spreads hints about the war on the deep state.\
